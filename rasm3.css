@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #28223F;
+}
+.rect{
+    background-color: #231E39;
+    width: 400px;
+    height: 380px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 40px;
+}
+.div{
+    background-color: #1F1A36;
+    margin: auto;
+    padding: 20px 10px;
+    width: 400px;
+    height: 200px;
+}
+.photo{
+    display: block;
+    margin: auto;
+    padding:7px;
+    margin-bottom: 5px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border:solid #0D8B9C;
+}
+.title{
+    margin-top: 10px;
+    text-align: center;
+    color: #A3B4CC;
+}
+.place{
+    margin-top: 10px;
+    text-align: center;
+    color: #A3B4CC;
+}
+.job{
+    margin-top: 10px;
+    padding: 0px 80px;
+    text-align: center;
+    color: #A3B4CC;
+}
+.Message{
+    margin-top: 20px;
+    margin-left: 50px;
+    padding-left: 10px;
+    width: 100px;
+    height: 38px;
+    background-color: #03BFCB;
+    border: none;
+    border-radius: 5px;
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 1px;
+    margin-right: 50px;
+    padding-right: 10px;
+    width: 100px;
+    height: 38px;
+    background-color: #231E39;
+    color: #03BFCB ;
+    border: solid #03BFCB;
+    border-radius: 5px;
+}
+p{
+    color:#A3B4CC;
+}
+.ui{
+    background-color: #1F1A36;
+    color: #A3B4CC;
+    padding: 5px;
+    border: currentColor #A3B4CC;
+
+}
